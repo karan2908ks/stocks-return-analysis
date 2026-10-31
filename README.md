@@ -9,7 +9,8 @@ A hands-on multi-asset research workspace built with Next.js, React, TypeScript,
 - Factor CSV upload with date alignment, beta standard error, t-statistic, alpha, and R-squared diagnostics.
 - Annualized volatility, Sharpe ratio, maximum drawdown, worst calendar month, and 60-day rolling beta.
 - Beta-based market shock scenarios and a long-only minimum-variance allocation suggestion.
-- Browser-local watchlist and saved research labels; downloadable CSV report of metrics and daily returns.
+- Browser-local watchlist with add-to-basket and remove actions; saved runs retain the analysis setup and can be restored or deleted.
+- Downloadable CSV report of metrics and daily returns.
 - Vercel-compatible Next.js API route for Yahoo Finance adjusted close history.
 
 ## Run locally
